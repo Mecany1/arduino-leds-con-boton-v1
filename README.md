@@ -1,2 +1,4 @@
 # arduino-leds-con-boton-v1
-Prendiendo leds mediante un boton utilizando Arduino
+Encendiendo leds mediante un boton utilizando Arduino
+
+Video en YouTube: https://www.youtube.com/edit?video_id=e5ujgHiBZP8
